@@ -41,14 +41,6 @@ Unlike typical summarizers that cut information, BrainStream **preserves the ful
 
 ### ✅ Chrome Version
 - Chrome Dev or Canary build `≥ 128.0.6545.0`
-
-### 💾 Storage
-- Minimum **22 GB free disk space**
-- Gemini Nano will auto-delete if storage drops below **10 GB**
-
-### 📜 Policy Acknowledgment
-- Must review and comply with Google’s [Generative AI Prohibited Uses Policy](https://support.google.com/chrome/answer/13518165)
-
 ---
 
 ## 🚀 Installation Guide

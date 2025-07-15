@@ -19,4 +19,3 @@ document.addEventListener('DOMContentLoaded', function() {
         document.getElementById('useOpenDyslexic').checked = result.useOpenDyslexic || false;
     });
 });
-

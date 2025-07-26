@@ -128,3 +128,4 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ---
 
 Made with ❤️ to make the web accessible for every brain.
+

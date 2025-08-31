@@ -3,6 +3,8 @@
 **MindStream** is a Chrome extension that makes web content easier to read.  
 It simplifies complex text, supports different reading modes (ADHD, Dyslexia, General), and gives you full control over how pages look — without cutting information.  
 
+🔴 **Live Demo:** [mindstream.sachinbind.net](https://mindstream.sachinbind.net/)  
+
 ---
 
 ## ✨ Features

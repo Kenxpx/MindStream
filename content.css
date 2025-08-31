@@ -11,7 +11,7 @@
 }
 
 #welcomePage p {
-    color: #666;
+    color: #717ed4;
     margin-bottom: 20px;
 }
 
@@ -93,7 +93,7 @@
     border-left: 3px solid #ddd;
     margin-left: 0;
     padding-left: 1em;
-    color: #666;
+    color: #717ed4;
 }
 
 .simplified-text pre {

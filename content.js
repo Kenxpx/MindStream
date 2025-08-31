@@ -20,11 +20,11 @@ const themes = {
         textColor: '#E0E0E0',
     },
     sepia: {
-        backgroundColor: '#F5E9D5',
+        backgroundColor: '#717ed4',
         textColor: '#5B4636',
     },
     lowBlueLight: {
-        backgroundColor: '#FFF8E1',
+        backgroundColor: '#717ed4',
         textColor: '#2E2E2E',
     },
     softPastelBlue: {
@@ -508,7 +508,7 @@ chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
                                     border-left: 2px solid #ddd;
                                     margin-left: 0;
                                     padding-left: 10px;
-                                    color: #666;
+                                    color: #717ed4;
                                 }
                             `;
                             document.head.appendChild(simplifiedStyles);
@@ -843,4 +843,3 @@ document.addEventListener('DOMContentLoaded', () => {
         );
     });
 });
-

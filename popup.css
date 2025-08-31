@@ -25,7 +25,7 @@ header {
     gap: 8px;
 }
 
-.BrainStream-icon {
+.Catina-icon {
     width: 24px;
     height: 24px;
 }
@@ -44,7 +44,7 @@ h1 {
     font-size: 20px;
     cursor: pointer;
     padding: 4px;
-    color: #666;
+    color: #717ed4;
     transition: color 0.2s ease;
 }
 
@@ -78,12 +78,12 @@ h1 {
 .help-icon {
     margin-left: auto;
     font-size: 18px;
-    color: #666;
+    color: #717ed4;
     cursor: pointer;
 }
 
 .helper-text {
-    color: #666;
+    color: #717ed4;
     font-size: 12px;
     margin: 4px 0 0 0;
 }
@@ -198,7 +198,7 @@ select {
     font-size: 20px;
     cursor: pointer;
     padding: 4px;
-    color: #666;
+    color: #717ed4;
     transition: color 0.2s ease;
 }
 
@@ -280,7 +280,7 @@ input:checked + .slider:before {
 }
 
 .slider-value {
-    color: #666;
+    color: #717ed4;
 }
 
 input[type="range"] {

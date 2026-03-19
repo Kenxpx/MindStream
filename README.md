@@ -19,7 +19,7 @@ It simplifies complex text, supports different reading modes (ADHD, Dyslexia, Ge
 
 ## 🛠 Requirements
 
-- **Chrome Dev or Canary** (`>= 128.0.6545.0`)  
+- **Chrome Dev or Canary** (`>= 1343.0.6545.0`)  
 - **Storage:** 22 GB free (Gemini Nano requirement)  
 - **Flags to enable:**  
   - `chrome://flags/#optimization-guide-on-device-model` → **Enabled BypassPerfRequirement**  
@@ -82,7 +82,7 @@ npm run build
 ## 🛠 Troubleshooting
 
 - Extension not loading? → Check Chrome flags are enabled  
-- AI not working? → Make sure you’re on **Dev/Canary ≥ 128**  
+- AI not working? → Make sure you’re on **Dev/Canary ≥ 133**  
 - Still broken? → Restart Chrome and reload extension  
 
 ---
